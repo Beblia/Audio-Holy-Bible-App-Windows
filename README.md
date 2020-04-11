@@ -10,13 +10,13 @@ https://www.beblia.com
 <br/>
 Windows 10 Application Direct Download Link:
 <br/>
-http://51.91.170.33/W10/Beblia/AudioBible/index.html
+https://servervideos.hopto.org/W10/Beblia/AudioBible/index.html
 <br/>
 ----------------------------------
 <br/>
 <br/>
-<img src="http://51.91.170.33/W10/Beblia/AudioBible/1.png" />
+<img src="https://servervideos.hopto.org/W10/Beblia/AudioBible/1.png" />
 ----------------------------------
 <br/>
 <br/>
-<img src="http://51.91.170.33/W10/Beblia/AudioBible/2.png" />
+<img src="https://servervideos.hopto.org/W10/Beblia/AudioBible/2.png" />
